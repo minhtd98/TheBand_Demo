@@ -1,0 +1,31 @@
+
+Những thành phần thường gặp trên giao diện website
+*
+1. Header(đầu trang)
+2. Navigation(điều hướng)
+3. Breadcrumb như là map cho biết vị trí của bạn đang ở đâu so với vị trí từ trang chủ
+4. Sidebar thanh 1 phí màng hình trái hoặc phái ( ví dụ như menu danh sách )
+5. Slider trình diễn các nội dung hình ảnh chạy,,có thể video,ví dụ như quảng cáo
+6. Content ( thành phần nội dung chính)
+7. Footer (chân trang)
+
+
+1. phân tích trang band
+    1.Header
+    2.Slider
+    3.Content
+        1.About
+        2.Tour
+        3.Contact
+        4.Image
+    4.Footer
+
+2.Dựng Base xây móng
+    
+    phím tắt để chọn id class nhiều nhanh
+    crtL +D
+    crtl + shift + L
+
+
+
+
