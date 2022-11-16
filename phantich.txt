@@ -25,6 +25,8 @@ Những thành phần thường gặp trên giao diện website
     phím tắt để chọn id class nhiều nhanh
     crtL +D
     crtl + shift + L
+    
+    mới thêm vô đó
 
 
 
